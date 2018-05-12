@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '37208'
     url: http://www.gutenberg.org/2009/agents/37208
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34768#The-Outlook--Uncle-Sam-s-Place-and-Prospects-in-International-Politics
 gutenberg_issued: '2010-12-28'
 gutenberg_type: Text
 identifiers:
